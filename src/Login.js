@@ -15,7 +15,7 @@ const signIn = (e) =>{
     e.preventDefault();
     signInWithEmailAndPassword(auth,email,password)
         .then(auth =>{
-            navigate('/home')
+            navigate('/')
         })
         .catch(error => alert(error.message));
 }
@@ -25,7 +25,7 @@ const signUp = (e) =>{
     createUserWithEmailAndPassword(auth,email,password)
         .then(auth =>{
             if(auth){
-                navigate('/home')
+                navigate('/')
             }
         })
         .catch(error => alert(error.message))
