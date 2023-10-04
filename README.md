@@ -64,12 +64,13 @@ Happy Coding! 🚀
  
  ## Home page
  
-![1](https://user-images.githubusercontent.com/59603716/231998833-674974b5-bbda-4c2b-b7c9-8216e53cb9b5.PNG)
+![1](https://github.com/DulanjaliSenarathna/e-shop/assets/59603716/e2d63a22-1eb0-477d-94db-bc5205058cb9)
+
 
 ## Login page
-![9](https://user-images.githubusercontent.com/59603716/232001496-b737eafb-fb25-4578-9d2a-8a2ecf821c50.PNG)
+![3](https://github.com/DulanjaliSenarathna/e-shop/assets/59603716/7b12c7d8-01d6-4df1-b64f-6e857a2bb51c)
 
 
 ## Cart
-![10](https://user-images.githubusercontent.com/59603716/232020438-ae399084-4946-4c0f-8af8-bbcfa11a3b11.PNG)
+![2](https://github.com/DulanjaliSenarathna/e-shop/assets/59603716/a652aec9-3e92-4e48-b9d4-16c1f54667fd)
 
