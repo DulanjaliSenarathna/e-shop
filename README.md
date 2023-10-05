@@ -33,7 +33,7 @@ npm install
 and after that start the dev server.
 
 ```shell
-npm run dev
+npm start
 ```
 
 ## Tools Used
